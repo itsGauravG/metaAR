@@ -25,3 +25,7 @@ Our goal is to contribute towards the development of metaverse in its early stag
 <li>Low entry barrier and right platforms to access these NFTs</li>
 <li>Focusing on user experience</l1>
  </ul>
+ 
+ </br>
+ </br>
+ Follow our journey here <href> https://www.instagram.com/_metaar/ </href>
