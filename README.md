@@ -1,5 +1,5 @@
 # metaAR
-<b>metaAR</b> is heading towards to be an organisation utilising the full power of AR/VR technology to empower brands and individuals and provide an immersive experience to people in the metaverse. We are started with a mission to bridge the between brands and the metaverse and host the brand outlent in the metaverse to elivate the shopping experience. 
+<b>metaAR</b> is heading towards to be an organisation utilising the full power of AR/VR technology to empower brands and individuals and provide an immersive experience to people in the metaverse. We have started with a mission to bridge the gap between brands and the metaverse and host the brand outlent in the metaverse to elivate the shopping experience. 
 
 <h1>Problem Statement</h1>
 
